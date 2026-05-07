@@ -20,7 +20,7 @@ Static homepage for Box Office Phnom Penh, built with plain HTML, CSS, and JavaS
 
 ## Images
 
-Add these image files inside the `images/` folder:
+The `images/` folder already includes original generated JPEG assets for the site:
 
 - `hero.jpg`
 - `food.jpg`
@@ -30,7 +30,7 @@ Add these image files inside the `images/` folder:
 - `exterior.jpg`
 - `map-placeholder.jpg`
 
-The layout includes fallback background colors, so the page will still render while images are missing.
+These are not copied from Google Maps or third-party review sites. They are original, tone-matched visuals created for this GitHub Pages version. Replace them with official business-owned photos anytime by keeping the same filenames.
 
 ## Messenger CTA
 

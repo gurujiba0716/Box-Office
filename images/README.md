@@ -1,6 +1,6 @@
 # Image Files
 
-Place the following files in this folder before publishing the final website:
+This folder includes original generated JPEG assets for the website:
 
 - `hero.jpg`
 - `food.jpg`
@@ -10,7 +10,7 @@ Place the following files in this folder before publishing the final website:
 - `exterior.jpg`
 - `map-placeholder.jpg`
 
-Recommended image sizes:
+Recommended replacement image sizes:
 
 - `hero.jpg`: 1920 x 900 or larger
 - Card images: 900 x 600 or larger
